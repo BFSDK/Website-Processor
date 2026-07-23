@@ -5,7 +5,7 @@
     <em>Create a backend for your websites using a lightweight scripting language.</em>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Project Status">
+  <img src="https://img.shields.io/badge/status-archive-red" alt="Project Status">
   <img src="https://img.shields.io/github/license/BFSDK/Website-Processor" alt="License">
   <img src="https://img.shields.io/github/v/release/BFSDK/Website-Processor?include_prereleases" alt="GitHub release (latest by date including pre-releases)">
   <img src="https://img.shields.io/github/last-commit/BFSDK/Website-Processor" alt="GitHub last commit">
